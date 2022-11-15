@@ -1,6 +1,5 @@
 # Hello, I’m Count X
-- Learning Vulkan and subjects relevant to videogame production
-- I’m looking to collaborate on videogame development
+- Learning Vulkan and subjects relevant to Video Game production
 
 *You Can Find My works in my Portfolio*
 
