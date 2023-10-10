@@ -1,5 +1,5 @@
 # Hello, I’m Count X
-- Learning Vulkan and subjects relevant to Video Game production
+- Learning C and C based graphics libraries like SDL and Vulkan
 
 *You Can Find My works in my Portfolio*
 
