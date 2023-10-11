@@ -1,5 +1,5 @@
 # Hello, I’m Count X
-- Learning C and C based graphics libraries like SDL and Vulkan
+- Learning C and C API:s like SDL and Vulkan
 
 *You Can Find My works in my Portfolio*
 
